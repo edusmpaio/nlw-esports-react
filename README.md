@@ -6,7 +6,7 @@ Meu primeiro projeto utilizando a biblioteca ReactJS.
 <br>
 
 <p align="center">
-  <img alt="Calendario da copa" src=".github/preview.jpg" width="100%">
+  <img alt="NLW eSports" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -22,4 +22,3 @@ Refatoração de um [projeto](https://github.com/edusmpaio/nlw-esports) realizad
 Consiste em uma página de links voltada para o mundo dos games.
 
 🔗 [Clique aqui](https://nlw-esports-react-eight.vercel.app/) para acessar o deploy.
-
